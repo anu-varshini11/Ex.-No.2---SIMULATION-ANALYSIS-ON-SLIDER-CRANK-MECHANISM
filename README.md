@@ -47,8 +47,8 @@
 ![2op](https://github.com/23005672/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/138971519/ab5cf4c4-07c8-4394-9fe7-51be2950fefc)
 
 
-### Name: NAVEENKANTHAN L
-### Register Number: 23007705
+### Name: M B ANU VARSHINI
+### Register Number: 23008712
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
